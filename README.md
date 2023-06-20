@@ -1,3 +1,3 @@
 # api-platzi
-# practicando asincronismo 
+# Asincronismo fake api
 https://fakeapi.platzi.com/
